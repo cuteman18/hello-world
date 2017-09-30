@@ -2,4 +2,4 @@
 
 Hello Humans!
 
-I am Sergey learninh github, nice to meet all of You ! )))
+I am Sergey learning github, nice to meet all of You ! )))
