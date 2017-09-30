@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello Humans!
+
+I am Sergey learning github, nice to meet all of You ! )))
